@@ -1,7 +1,7 @@
 /**
  * @file cpp_study_1.cpp
  * @author Jun (syo2357@gmail.com)
- * @brief Intro to C++
+ * @brief Intro to C++. Printing Hello world and get name
  * @version 0.1
  * @date 2022-12-08
  * 

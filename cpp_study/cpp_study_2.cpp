@@ -1,7 +1,7 @@
 /**
  * @file cpp_study_2.cpp
  * @author Jun (syo2357@gmail.com)
- * @brief About data type
+ * @brief About data type. Focus on NEW THINGS!!
  * @version 0.1
  * @date 2022-12-08
  * 

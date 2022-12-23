@@ -1,7 +1,7 @@
 /**
  * @file cpp_study_4.cpp
  * @author Jun (syo2357@gmail.com)
- * @brief About ect operators
+ * @brief About ect operators. Ternary operator seems quite useful. 
  * @version 0.1
  * @date 2022-12-08
  * 
